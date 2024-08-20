@@ -1,0 +1,8 @@
+#git:
+	* version control system tool to track changes in the code.
+	* fast and Scalable.
+	* work with collaboration.
+
+#Git hub:
+	* website that allows developers to store and manage their code using git.
+	* all codes are stored under "REPOSITORY"(folder).
