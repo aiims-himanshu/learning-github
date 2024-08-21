@@ -9,3 +9,7 @@
 # Readme:
 	* special file containg all details about the project.
 	* show's as "readme.md" "md' extention refers to mark down.
+# configure git :
+	commands :=>
+				* git config --global user.name "name of the user"
+				* git config --global user.email " mail id of the user"
