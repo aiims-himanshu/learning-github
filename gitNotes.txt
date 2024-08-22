@@ -27,6 +27,4 @@
 
 		4. push command :
 				to upload local  repo content to remote repo.
-					syntax: git push origin main <at the place of "main" write the branch name you are working>
-
-					
+					syntax: git push origin main <at the place of "main" write the branch name you are
