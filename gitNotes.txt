@@ -13,3 +13,9 @@
 	commands :=>
 				* git config --global user.name "name of the user"
 				* git config --global user.email " mail id of the user"
+
+# basic git commands:
+		1. clone command 
+					use to point a exixting repo and make a clone / copy of the same in a directory.
+						syntax:-> git clone <url https// link>.
+						
