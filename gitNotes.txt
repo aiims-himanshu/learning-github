@@ -27,4 +27,13 @@
 
 		4. push command :
 				to upload local  repo content to remote repo.
-					syntax: git push origin main <at the place of "main" write the branch name you are
+					syntax: git push origin main <at the place of "main" write the branch name you are working in>
+	
+		5. init command:
+				used to create a new REPOSITORY on code editor.
+					syntax:-> git init <repo name>
+							git remote add origin <----url link---->
+
+# workflow of github using vs code:-
+		new repo ---> clone that repo ----> make changes in code editor ---> add change in github (git add)---->
+		commit chnages (git commit -m "msg")---> push changes to th github (git push).
