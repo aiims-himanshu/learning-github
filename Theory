@@ -1,0 +1,17 @@
+GitHub supports various types of licenses that you can use for your projects. Here are some common ones:
+
+MIT License: A permissive license that allows for almost unrestricted use, modification, and distribution of the code. It requires attribution and includes a disclaimer of warranties.
+
+Apache License 2.0: A permissive license similar to the MIT License but with additional provisions related to patents. It also requires a NOTICE file for attribution.
+
+GNU General Public License (GPL): A copyleft license that requires derived works to be distributed under the same license terms. There are different versions, including GPL-2.0 and GPL-3.0.
+
+GNU Lesser General Public License (LGPL): A more permissive version of the GPL, designed for libraries. It allows linking to non-(L)GPL software without imposing the GPL requirements on the linked software.
+
+BSD License: There are two main types: the 2-clause and the 3-clause licenses. Both are permissive, but the 3-clause version includes a clause that prohibits the use of the names of the project or its contributors to promote derived products.
+
+Creative Commons Licenses: Often used for non-software works like documentation or media. They range from very permissive (CC BY) to more restrictive (CC BY-NC-SA).
+
+Eclipse Public License (EPL): A copyleft license that allows users to modify and distribute the code but requires derivative works to be licensed under the EPL as well.
+
+When choosing a license for your GitHub project, it's important to consider how you want others to use, modify, and distribute your work. GitHub provides tools and templates to help you select and apply a license to your repository.
